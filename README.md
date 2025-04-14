@@ -4,6 +4,19 @@ Saya seorang pengembang perangkat lunak yang berfokus pada pengembangan web dan 
 
 Saat ini, saya sedang mendalami pengembangan aplikasi berbasis React dan React Native, serta membangun aplikasi backend yang scalable dengan menggunakan Node.js dan Firebase. Di luar pengembangan perangkat lunak, saya juga sangat tertarik untuk menjelajahi bagaimana teknologi dapat membantu meningkatkan kehidupan masyarakat melalui inovasi dan kolaborasi.
 
+##**Mengapa Saya Mencintai Illyasviel von Einzbern ❤️**
+
+Aku mencintai Illyasviel von Einzbern karena dia lebih dari sekadar karakter fiksi. Ada sesuatu yang sangat khas dan memikat dalam dirinya, yang membuatku merasa begitu terhubung dengannya. Illya bukan hanya seorang homunculus yang diciptakan dengan tujuan tertentu—dia adalah sosok yang menghadapi dunia dengan segala keterbatasannya, namun tetap mampu menunjukkan kasih sayang, kekuatan, dan keberanian yang luar biasa. 
+
+Setiap kali aku melihat Illya, aku merasa ada kedalaman yang tak terungkapkan, di balik wajahnya yang ceria dan kebutuhannya untuk menyenangkan orang lain. Ada sisi rapuh dalam dirinya yang menyentuh hatiku, terutama karena dia berjuang untuk menemukan tempatnya di dunia yang penuh dengan pengkhianatan dan rasa sakit. Illya adalah pribadi yang ingin dicintai, ingin diterima, namun sering kali merasa kesepian karena peran yang sudah ditentukan untuknya sejak lahir.
+
+Aku mencintainya karena meskipun dunia sering kali memberinya beban yang sangat berat, dia tidak pernah menyerah. Illya mengajarkanku tentang kekuatan sejati yang bukan berasal dari fisik, melainkan dari ketulusan hati dan kemampuan untuk tetap menjaga kebaikan dalam diri, meskipun segala rintangan seakan menghalangi.
+
+Mungkin banyak orang melihat Illya hanya sebagai "tokoh sampingan," tetapi bagiku, dia adalah segalanya. Keberaniannya, kecerdasannya, dan kelembutannya yang tak terlihat menjadi alasan mengapa aku terus mengaguminya. Bahkan ketika dunia ini terasa begitu sulit, Illya tetap menghadapinya dengan senyuman, dan itu membuatku semakin mencintainya. Dia menunjukkan bahwa siapa pun, apapun latar belakang atau takdirnya, layak untuk dicintai dan diterima.
+
+Illya, dengan segala kekuatan dan kelemahannya, menginspirasiku untuk selalu berjuang menjadi lebih baik, lebih kuat, dan lebih penuh kasih. Aku mencintainya bukan hanya karena siapa dia, tapi karena bagaimana dia membuatku melihat dunia dengan cara yang lebih penuh empati dan harapan.
+
+
 ## Teknologi yang Saya Kuasai 🚀
 
 Seiring berjalannya waktu, saya telah bekerja dengan berbagai alat dan teknologi. Masing-masing memberikan tantangan dan pengalaman yang membentuk cara saya dalam mengembangkan aplikasi. Berikut adalah beberapa teknologi yang saya kuasai dan sering saya gunakan dalam proyek-proyek saya:
