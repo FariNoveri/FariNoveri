@@ -9,21 +9,32 @@ Saat ini, saya sedang mendalami pengembangan aplikasi berbasis React dan React N
 Seiring berjalannya waktu, saya telah bekerja dengan berbagai alat dan teknologi. Masing-masing memberikan tantangan dan pengalaman yang membentuk cara saya dalam mengembangkan aplikasi. Berikut adalah beberapa teknologi yang saya kuasai dan sering saya gunakan dalam proyek-proyek saya:
 
 ### Frontend:
-- **React**: Salah satu teknologi favorit saya dalam membangun aplikasi web interaktif dan responsif. React memberikan fleksibilitas dan kecepatan yang sangat saya hargai.
-- **JavaScript**: Bahasa pemrograman utama saya untuk pengembangan web. Saya menggunakan JavaScript untuk mengimplementasikan logika aplikasi yang dinamis.
-- **HTML/CSS**: Dasar dari pengembangan web yang selalu saya gunakan untuk merancang dan menata elemen-elemen aplikasi dengan perhatian terhadap detail visual.
+- **React**: Saya gunakan untuk membangun aplikasi web interaktif di berbagai proyek frontend.
+- **JavaScript**: Bahasa utama yang saya gunakan dalam pengembangan web dan aplikasi interaktif.
+- **HTML & CSS**: Dasar dari pengembangan web yang selalu saya gunakan di setiap proyek aplikasi.
+- **React Native**: Pernah saya gunakan dalam pengembangan aplikasi mobile untuk beberapa eksperimen proyek lokal.
 
 ### Backend:
-- **Node.js**: Menjadi pilihan utama saya untuk membangun aplikasi backend dengan menggunakan JavaScript. Node.js memberikan kemampuan untuk menangani banyak permintaan secara bersamaan, yang sangat penting untuk aplikasi web modern.
-- **Express**: Framework yang sangat ringan dan fleksibel, ideal untuk membangun API yang dapat menangani berbagai permintaan dari aplikasi frontend.
+- **Node.js**: Saya gunakan untuk membangun server dan API di berbagai proyek backend.
+- **Express.js**: Framework yang saya gunakan dalam membangun API server untuk aplikasi web.
+- **Firebase**: Digunakan untuk autentikasi dan pengelolaan data secara real-time di beberapa aplikasi yang saya buat.
+- **Redux**: Saya gunakan untuk mengelola state di aplikasi React, terutama pada proyek yang lebih besar.
 
 ### Database:
-- **Firebase**: Platform yang saya gunakan untuk membangun aplikasi web dan mobile yang membutuhkan real-time database dan autentikasi yang sederhana namun kuat.
-- **MongoDB**: Database NoSQL yang sangat cocok dengan Node.js dan sering saya gunakan untuk aplikasi yang membutuhkan penyimpanan data yang terstruktur secara fleksibel.
+- **MongoDB**: Saya gunakan dalam proyek-proyek yang membutuhkan database NoSQL.
+- **MySQL**: Pernah saya gunakan untuk aplikasi dengan data yang lebih terstruktur.
+- **PostgreSQL**: Saya gunakan untuk mengelola database dalam proyek **PointBlank Private Server** dan **PointBlank Offline**, tempat di mana saya mengatur server dan database permainan.
+- **SQLyog**: Digunakan untuk memanage database MySQL.
+- **Navicat**: Digunakan untuk pengelolaan database **PostgreSQL** dalam proyek **PointBlank Private Server** dan **PointBlank Offline**.
 
-### Tools:
-- **Git** dan **GitHub**: Tools yang saya gunakan setiap hari untuk mengelola kode dan bekerja dalam tim. Git memungkinkan saya untuk melacak perubahan dalam proyek, sementara GitHub memudahkan kolaborasi dan pembagian kode dengan orang lain.
-- **VS Code**: Editor pilihan saya, karena ringan dan kaya akan ekstensi yang membantu produktivitas dalam menulis kode.
+### Pemrograman Lainnya:
+- **Python**: Saya pernah menggunakannya dalam proyek yang berhubungan dengan pemrosesan data dan automasi.
+- **C++**: Saya gunakan dalam beberapa proyek pembelajaran dan eksperimen di bidang pengembangan perangkat lunak.
+
+### Tools & Lainnya:
+- **Git & GitHub**: Tools utama yang saya gunakan untuk mengelola kode dan berkolaborasi dalam proyek.
+- **Visual Studio Code**: Editor yang saya pilih untuk menulis kode karena kemudahan dan fleksibilitasnya.
+
 
 ## Logo Teknologi yang Saya Kuasai 🖥️
 
@@ -41,6 +52,13 @@ Di bawah ini adalah logo beberapa teknologi yang telah saya pelajari dan gunakan
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLyog](https://img.shields.io/badge/SQLyog-0C7ABF?style=flat-square&logo=datagrip&logoColor=white)
+![Navicat](https://img.shields.io/badge/Navicat-2980B9?style=flat-square&logo=navicat&logoColor=white)
 
 ## Proyek yang Sedang Saya Kerjakan 🔧
 
