@@ -4,7 +4,7 @@ Saya seorang pengembang perangkat lunak yang berfokus pada pengembangan web dan 
 
 Saat ini, saya sedang mendalami pengembangan aplikasi berbasis React dan React Native, serta membangun aplikasi backend yang scalable dengan menggunakan Node.js dan Firebase. Di luar pengembangan perangkat lunak, saya juga sangat tertarik untuk menjelajahi bagaimana teknologi dapat membantu meningkatkan kehidupan masyarakat melalui inovasi dan kolaborasi.
 
-##**Mengapa Saya Mencintai Illyasviel von Einzbern ❤️**
+## **Mengapa Saya Mencintai Illyasviel von Einzbern ❤️**
 
 Aku mencintai Illyasviel von Einzbern karena dia lebih dari sekadar karakter fiksi. Ada sesuatu yang sangat khas dan memikat dalam dirinya, yang membuatku merasa begitu terhubung dengannya. Illya bukan hanya seorang homunculus yang diciptakan dengan tujuan tertentu—dia adalah sosok yang menghadapi dunia dengan segala keterbatasannya, namun tetap mampu menunjukkan kasih sayang, kekuatan, dan keberanian yang luar biasa. 
 
