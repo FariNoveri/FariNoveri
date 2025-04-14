@@ -52,18 +52,18 @@ Berikut adalah beberapa proyek yang telah saya kerjakan dan dapat Anda temukan d
 Sebuah aplikasi kloning dari Neswara yang saya buat selama magang pertama saya di PT Microdata. Proyek ini menggunakan JavaScript dan memberikan pengalaman berharga dalam pengembangan aplikasi web.
 ```
 
-### 2. [hollytea.github.io][https://github.com/farinoveri/hollytea.github.io]
+### 2. [hollytea.github.io](https://github.com/farinoveri/hollytea.github.io)
 
 ```
 Website untuk Holly Tea yang saya bangun sebagai bagian dari tugas Metodologi Penelitian. Menggunakan SCSS untuk desain dan pengembangan antarmuka pengguna.
 ```
 
-### 3. [reduxtoolkit_fari][https://github.com/farinoveri/reduxtoolkit_fari]
+### 3. [reduxtoolkit_fari](https://github.com/farinoveri/reduxtoolkit_fari)
 ```
 Proyek ini merupakan bagian dari tugas magang kedua saya, di mana saya mempelajari dan menerapkan Redux Toolkit dalam pengelolaan state aplikasi berbasis JavaScript.
 ```
 
-### 4. [pelatihanmobile_fari][https://github.com/farinoveri/pelatihanmobile_fari]
+### 4. [pelatihanmobile_fari](https://github.com/farinoveri/pelatihanmobile_fari)
 
 ```
 Aplikasi mobile yang saya kembangkan sebagai bagian dari pelatihan untuk memenuhi syarat kelulusan PKL/Magang di Universitas Teknokrat Indonesia. Dibangun menggunakan C++ untuk platform mobile dan menggunakan website idx.dev
@@ -74,7 +74,8 @@ Aplikasi mobile yang saya kembangkan sebagai bagian dari pelatihan untuk memenuh
 
 Saya selalu terbuka untuk kolaborasi dan berbicara lebih lanjut tentang teknologi. Anda bisa menghubungi saya melalui:
 
-- **Email**: cahayalunamaharani1@gmail.com
+- **Email 1**: cahayalunamaharani1@gmail.com
+- **Email 2**: fari_noveriwinato@teknokrat.ac.id
 - **LinkedIn**: [linkedin.com/in/farinoveri](https://www.linkedin.com/in/farinoveri)
 - **Twitter**: [@fari_noveri](https://x.com/fari_noveri)
 - **Youtube**: [@FariNoveri](https://www.youtube.com/@FariNoveri)
@@ -90,3 +91,62 @@ Saya selalu berusaha menjadi pengembang yang lebih baik setiap harinya. Salah sa
 
 ![Fari Noveri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FariNoveri&show_icons=true&count_private=true)
 
+```
+
+▄▄▄█████▓ ██░ ██  ▄▄▄       ███▄    █  ██ ▄█▀   
+▓  ██▒ ▓▒▓██░ ██▒▒████▄     ██ ▀█   █  ██▄█▒    
+▒ ▓██░ ▒░▒██▀▀██░▒██  ▀█▄  ▓██  ▀█ ██▒▓███▄░    
+░ ▓██▓ ░ ░▓█ ░██ ░██▄▄▄▄██ ▓██▒  ▐▌██▒▓██ █▄    
+  ▒██▒ ░ ░▓█▒░██▓ ▓█   ▓██▒▒██░   ▓██░▒██▒ █▄   
+  ▒ ░░    ▒ ░░▒░▒ ▒▒   ▓▒█░░ ▒░   ▒ ▒ ▒ ▒▒ ▓▒   
+    ░     ▒ ░▒░ ░  ▒   ▒▒ ░░ ░░   ░ ▒░░ ░▒ ▒░   
+  ░       ░  ░░ ░  ░   ▒      ░   ░ ░ ░ ░░ ░    
+          ░  ░  ░      ░  ░         ░ ░  ░      
+                                                
+▓██   ██▓ ▒█████   █    ██                      
+ ▒██  ██▒▒██▒  ██▒ ██  ▓██▒                     
+  ▒██ ██░▒██░  ██▒▓██  ▒██░                     
+  ░ ▐██▓░▒██   ██░▓▓█  ░██░                     
+  ░ ██▒▓░░ ████▓▒░▒▒█████▓                      
+   ██▒▒▒ ░ ▒░▒░▒░ ░▒▓▒ ▒ ▒                      
+ ▓██ ░▒░   ░ ▒ ▒░ ░░▒░ ░ ░                      
+ ▒ ▒ ░░  ░ ░ ░ ▒   ░░░ ░ ░                      
+ ░ ░         ░ ░     ░                          
+ ░ ░                                            
+
+```
+
+```
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠉⠁⠀⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉⠁⢠⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠉⠉⠙⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠛⠛⠳⠶⢤⣀⡀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠳⢤⣀⠀⠀⠀⠀⠈⠿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣦⣄⣠⣄⣤⣬⣿⠿⠿⠿⠿⠿⠿⠿⣷⣿⣿⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣬⣿⣿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠿⢿⣷⣤⡀⠀⠀⠀⠀⠀⣠⣾⣿⣿⡿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣦⡀⢀⣴⠿⠛⠉⠉⠀⠀⠀⠀⠠⠽⠿⠿⢿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣤⣤⣤⣤⣄⡀⢠⣾⡟⠁⠀⠀⠀⣠⣶⣶⣶⣦⣄⠀⠀⠀⠀⣠⣶⣶⣶⣤⣄⠀⠀⠀⠀⠘⢿⣿⣟⠁⠀⠀⣀⣤⠖⠛⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠛⠛⢻⣿⡟⠀⠀⠀⣴⣿⣿⣿⡿⢻⣿⣿⣷⠀⠀⢸⣿⣿⠟⢿⣿⣿⣷⣄⠀⠀⠀⠈⣿⣿⣤⣶⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⣿⣿⢠⣾⠀⣾⣿⣿⣿⣿⣷⣶⣿⣿⡿⠀⠀⠘⣿⣿⣷⣾⣿⣿⣿⣿⣷⠴⣦⠀⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
+⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⠈⠛⠶⣤⣀⡈⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠀⣀⣠⣶⠟⢀⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿
+⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣸⣿⡇⠀⠀⠈⢻⣿⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⠟⠋⠀⠀⣼⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⣿⣿
+⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⣠⠶⠛⠛⠻⣿⣿⡀⠀⠀⠀⠙⢿⣿⣇⣤⣄⠀⢀⣠⣤⡀⠀⣀⣀⠀⣿⣿⠏⠀⠀⠀⢠⣿⣿⠓⠲⠶⢶⣦⣤⣤⣤⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣷⠀⠀⠀⢀⣀⡤⠖⠊⠁⠀⠀⠀⠀⠘⣿⣷⡀⠀⠀⠀⠀⢻⡟⠙⢿⡶⢿⣿⣿⡷⠼⢻⣿⣿⢿⡟⠀⠀⠀⠀⣾⣿⠇⠀⠀⠀⠀⠉⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣦⣤⠔⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠁⠈⠻⠟⠁⠀⠀⠈⠁⠈⠁⠀⠀⢀⣾⣿⠏⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣬⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣿⣿⠟⠁⠀⠻⣿⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⠟⠋⠀⠀⠀⠉⠛⠦⡀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣷⣄⣀⣀⣀⣀⣠⣴⣾⣿⣿⣿⡟⠁⠀⠀⠀⠀⣿⡿⠿⠿⣿⣶⣶⣦⣤⣤⣤⣤⣴⣶⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢦⡀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠸⠁⠀⠀⠀⠀⠈⠉⠛⠻⢿⣿⣿⣿⣯⣭⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡆⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⡿⠛⠛⠿⠿⣿⣿⣿⣷⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⣧⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠈⠙⠻⢿⣿⣿⣷⣦⣄⣀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⢀⡆⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣦⣄⡀⠀⠀⠀⠀⠀⠀⠉⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⢠⡞⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⡞⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⢀⣾⢟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣷⠀⠙⢿⣿⣟⣿⠟⠁⠀⠀⠀⠀⢀⣤⣴⢟⣡⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠻⣷⣄⣴⡿⠋⠁⠀⠀⠀⠀⣠⣾⢿⣿⣿⡿⠋⢠⣿⢻⡟⡿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠘⢿⣿⡀⠀⠀⠀⣀⣤⡾⠛⠁⢸⣿⠃⠀⠀⣸⡏⣘⢀⡇⢰⣟⣿⢰⡎⢨⡋⣿⣹⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠙⢿⣿⣿⣿⠟⠉⠀⠀⠀⣾⡗⠀⣠⣾⣿⣴⣿⣿⣷⣿⣿⣿⣾⣷⣾⣾⣦⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
