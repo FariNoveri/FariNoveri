@@ -41,6 +41,8 @@ Seiring berjalannya waktu, saya telah bekerja dengan berbagai alat dan teknologi
 - **JavaScript**: Bahasa utama yang saya gunakan dalam pengembangan web dan aplikasi interaktif.
 - **HTML & CSS**: Dasar dari pengembangan web yang selalu saya gunakan di setiap proyek aplikasi.
 - **React Native**: Pernah saya gunakan dalam pengembangan aplikasi mobile untuk beberapa eksperimen proyek lokal.
+- **TypeScript**: Saya menggunakan TypeScript untuk memberikan struktur yang lebih kuat dan aman dalam penulisan kode JavaScript. Dengan TypeScript, saya dapat menangkap bug lebih awal dan membuat kode menjadi lebih mudah dibaca serta dipelihara. Saya pernah menggunakan TypeScript dalam salah satu proyek saya untuk meningkatkan skalabilitas dan menjaga kualitas kode.
+- **Angular**: Framework yang saya gunakan ketika ingin membangun aplikasi web berskala besar dengan struktur yang rapi dan terorganisir. Angular memberikan banyak fitur bawaan seperti dependency injection, routing, dan form handling. Saya pernah menggunakannya dalam salah satu proyek saya, dan sangat terbantu dengan sistem modular serta arsitektur MVC-nya.
 
 ### Backend:
 - **Node.js**: Saya gunakan untuk membangun server dan API di berbagai proyek backend.
@@ -87,6 +89,9 @@ Di bawah ini adalah logo beberapa teknologi yang telah saya pelajari dan gunakan
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLyog](https://img.shields.io/badge/SQLyog-0C7ABF?style=flat-square&logo=datagrip&logoColor=white)
 ![Navicat](https://img.shields.io/badge/Navicat-2980B9?style=flat-square&logo=navicat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
 
 ## Proyek yang Sedang Saya Kerjakan 🔧
 
