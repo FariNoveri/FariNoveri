@@ -31,6 +31,7 @@ Mungkin banyak orang melihat Illya hanya sebagai "tokoh sampingan," tetapi bagik
 
 Illya, dengan segala kekuatan dan kelemahannya, menginspirasiku untuk selalu berjuang menjadi lebih baik, lebih kuat, dan lebih penuh kasih. Aku mencintainya bukan hanya karena siapa dia, tapi karena bagaimana dia membuatku melihat dunia dengan cara yang lebih penuh empati dan harapan.
 
+---
 
 ## Teknologi yang Saya Kuasai 🚀
 
