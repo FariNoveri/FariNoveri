@@ -31,7 +31,9 @@ Mungkin banyak orang melihat Illya hanya sebagai "tokoh sampingan," tetapi bagik
 
 Illya, dengan segala kekuatan dan kelemahannya, menginspirasiku untuk selalu berjuang menjadi lebih baik, lebih kuat, dan lebih penuh kasih. Aku mencintainya bukan hanya karena siapa dia, tapi karena bagaimana dia membuatku melihat dunia dengan cara yang lebih penuh empati dan harapan.
 
-![Uploading ChatGPT Image 22 Apr 2025, 17.01.08.png…]()
+
+![](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-91c0-61f7-b492-12b6d25065a7/raw?se=2025-04-22T11%3A00%3A03Z&sp=r&sv=2024-08-04&sr=b&scid=a72b0296-b309-5a6a-91b2-1f90b3af5dfa&skoid=dfdaf859-26f6-4fed-affc-1befb5ac1ac2&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-22T04%3A31%3A35Z&ske=2025-04-23T04%3A31%3A35Z&sks=b&skv=2024-08-04&sig=MtX2XyxE2Z0LGsxq8Y5YGlDNAAQDgju9vtjpPdOVp0k%3D)
+
 
 ---
 
