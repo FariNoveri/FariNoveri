@@ -145,7 +145,7 @@ Saya selalu berusaha menjadi pengembang yang lebih baik setiap harinya. Salah sa
 
 ## Statistik GitHub 📊
 
-![Fari Noveri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FariNoveri&show_icons=true&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FariNoveri&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ```
 
